@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Prida01";
+    src: url("https://fontsforyou.com/fonts/p/Prida01.ttf");
+}
+h1 {
+    font-family: "Prida01";
+    font-weight: bolder;
+    font-size: 70px;
+}

@@ -1,5 +1,10 @@
+
+
 .App {
   text-align: center;
+}
+.icons {
+  display: inline-block;
 }
 
 .App-logo {
